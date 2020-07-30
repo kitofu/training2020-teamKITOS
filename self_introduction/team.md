@@ -5,3 +5,7 @@
 ### 趣味
 
 + Keyboard Assembly
+
+### 好きな食べ物
+
++ 春巻き
