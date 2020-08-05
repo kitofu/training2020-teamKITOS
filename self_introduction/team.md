@@ -6,7 +6,7 @@ Kenji Kamada
 Guitar
  + [趣味]\
 
-### [何々]な食べ物
-
- + [食べ物]
- curry
+### [嫌い]な食べ物
+curry
+ + [好きな食べ物]
+ Milk
